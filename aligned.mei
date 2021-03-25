@@ -712,7 +712,9 @@
 						<sb/>
 						<measure label="24" n="24" xml:id="measure_bc511d71-e967-4198-9445-6ebd709f5029">
 							<staff facs="#zone_97974215-ac34-498f-864c-5c7b09fabb51" label="1" n="1" xml:id="staff_4a7c0396-1c76-4a77-b9e8-aa2847c88e0b">
-								<layer/>
+								<layer>
+									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_882f8310-de76-432f-a3e9-631d2cad29c9" label="2" n="2" xml:id="staff_32e5f4bd-501e-49b7-acd4-9b7690875870">
 								<layer/>
