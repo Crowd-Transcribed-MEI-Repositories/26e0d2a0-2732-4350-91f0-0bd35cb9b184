@@ -248,7 +248,9 @@
 						<pb/>
 						<measure label="1" n="1" xml:id="measure_e6524b3e-2ed3-4dce-bd5a-7fae2c119cb2">
 							<staff facs="#zone_4b620f68-5244-4f0d-a8ed-648549e3d1c7" label="1" n="1" xml:id="staff_d3e4f0ae-f42f-403a-b422-8cdb2571032a">
-								<layer/>
+								<layer>
+									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_533588b2-9965-48ec-8a06-4a903e3852e2" label="2" n="2" xml:id="staff_82108751-cf5b-413d-93b0-1078de159441">
 								<layer/>
