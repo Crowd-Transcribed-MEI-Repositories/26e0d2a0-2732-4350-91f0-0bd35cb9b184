@@ -510,7 +510,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_5a8b156e-fc69-44e9-9c1d-cd5b0aa8995d" label="4" n="4" xml:id="staff_c595805a-82be-4359-b930-e90e0f6d2bb2">
-								<layer/>
+								<layer>
+									<clef line="4" shape="F" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_17a40a35-3088-4c40-8c55-9f890a63afb4" label="5" n="5" xml:id="staff_aa1b9090-93e2-4f38-9891-da067be7f4d8">
 								<layer/>
