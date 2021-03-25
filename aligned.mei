@@ -524,7 +524,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_32a36fc3-64fd-4bc1-af51-18af5b4a1f2f" label="6" n="6" xml:id="staff_16dbc056-5b45-4499-bcb9-c8f719e55f93">
-								<layer/>
+								<layer>
+									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 						</measure>
 						<measure label="14" n="14" xml:id="measure_f25be0c7-50f6-47df-80f3-c5a1ce273cc3">
