@@ -268,7 +268,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_f877e824-1b53-4b02-a8dc-0df2085d43a5" label="5" n="5" xml:id="staff_99238744-1669-4887-a885-68c8abb439fe">
-								<layer/>
+								<layer>
+									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_3061c802-ca45-4472-806c-eba2f3d215f2" label="6" n="6" xml:id="staff_90eba32b-18e3-4a15-b93a-f9c913421532">
 								<layer/>
